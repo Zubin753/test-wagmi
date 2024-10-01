@@ -1,0 +1,1 @@
+export {TestRegistration} from './ui/TestRegistration'
